@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1459610832 source:c:\documents and settings\administrador\escritorio\tpcalculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1460082432 source:e:\tpcalculadora\biblioteca.c
+
+1460083432 source:e:\tpcalculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1460083638 e:\tpcalculadora\biblioteca.h
+	<stdio.h>
+	<stdlib.h>
+
